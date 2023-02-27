@@ -1,6 +1,5 @@
 
   👋 Hello! hi!
-- 🌱 I’m currently learning on how to love my self.
 - 🌱 I want something different this year and start building my career (2023).
 - 🌱 Currently Learning Front-end design
 

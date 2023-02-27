@@ -1,4 +1,4 @@
-<h2 align="center">"=== WELCOME TO MY PROFILE ==="</h2>
+<h2 align="center">🌿 WELCOME TO MY PROFILE 🌿</h2>
 
 - 🌱 I’m currently learning ** on how to love my self.**
 - 🌱 I want something different this year and start building my career (2023).

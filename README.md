@@ -1,10 +1,11 @@
-<h3 align="center">Big blue Ocean</h3>
+<h3 align="center">"Welcome to my Profile"</h3>
 
-- 🌱 I’m currently learning **my self**
-
+- 🌱 I’m currently learning **how to love my self.**
+- 🌱 I want something different this year and staring building my career.**
+- 
 - 📫 How to reach me **robantepeterfran@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 

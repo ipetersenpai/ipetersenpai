@@ -1,8 +1,9 @@
-<h2 align="center">🌿 Nothing better than on a endless vacation. 🌿</h2>
 
+- 👋 Hello! hi!
 - 🌱 I’m currently learning on how to love my self.
-- 🌱 I also do digital art but not anymore because I lost interest with it.
 - 🌱 I want something different this year and start building my career (2023).
+- 🌱 Currently Learning Front-end design
+
 - 📫 How to reach me **robantepeterfran@gmail.com**
 
 

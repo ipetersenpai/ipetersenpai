@@ -1,4 +1,4 @@
-<h2 align="center">🌿 WELCOME TO MY PROFILE 🌿</h2>
+<h2 align="center">🌿 Nothing better than on a endless vacation. 🌿</h2>
 
 - 🌱 I’m currently learning on how to love my self.
 - 🌱 I also do digital art but not anymore because I lost interest with it.

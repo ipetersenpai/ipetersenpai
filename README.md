@@ -1,6 +1,7 @@
 <h2 align="center">🌿 WELCOME TO MY PROFILE 🌿</h2>
 
 - 🌱 I’m currently learning ** on how to love my self.**
+- 🌱 I also do digital art but not anymore because I lost interest with it.
 - 🌱 I want something different this year and start building my career (2023).
 - 📫 How to reach me **robantepeterfran@gmail.com**
 

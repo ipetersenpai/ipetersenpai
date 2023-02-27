@@ -1,6 +1,6 @@
-<h3 align="center">"Welcome to my Profile"</h3>
+<h2 align="center">"=== WELCOME TO MY PROFILE ==="</h2>
 
-- 🌱 I’m currently learning **how to love my self.**
+- 🌱 I’m currently learning ** on how to love my self.**
 - 🌱 I want something different this year and start building my career (2023).
 - 📫 How to reach me **robantepeterfran@gmail.com**
 

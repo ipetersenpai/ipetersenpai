@@ -1,8 +1,7 @@
 <h3 align="center">"Welcome to my Profile"</h3>
 
 - 🌱 I’m currently learning **how to love my self.**
-- 🌱 I want something different this year and staring building my career.**
-- 
+- 🌱 I want something different this year and start building my career (2023).
 - 📫 How to reach me **robantepeterfran@gmail.com**
 
 

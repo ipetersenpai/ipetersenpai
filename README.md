@@ -1,6 +1,6 @@
 
   👋 Hello! hi!
-- 🌱 I like playing games, wacthing anime and reading manga.
+- 🌱 I'am open to learn new fields related to programming.
 - 🌱 Currently Learning Front-end design.
 
 - 📫 How to reach me **robantepeterfran@gmail.com**

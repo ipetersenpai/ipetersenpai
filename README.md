@@ -19,7 +19,6 @@
 
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
-    <img src="https://github-readme-stats.vercel.app/api?username=ipetersenpai&show_icons=true&locale=en" alt="ipetersenpai" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ipetersenpai&" alt="ipetersenpai"  />
   </div>
 </div>

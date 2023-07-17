@@ -30,7 +30,7 @@ I am currently taking BS Information Technology at University of Science and Tec
 
 ## ⚡️ My Stats:
 <div align="center">
-  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ipetersenpai&show_icons=true&theme=vision-friendly-dark" alt="ipetersenpai" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ipetersenpai&theme=vision-friendly-dark" alt="ipetersenpai" /></p>
 </div>
 
 ## 💼 Contact Me

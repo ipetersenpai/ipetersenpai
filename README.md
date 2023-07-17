@@ -26,11 +26,6 @@ I am currently taking BS Information Technology at University of Science and Tec
 [![photoshop](https://img.shields.io/badge/photoshop-01defe?style=for-the-badge&logo=photoshop&logoColor=white)](https://www.adobe.com)
 [![postman](https://img.shields.io/badge/postman-fc8303?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com)
 
-## ⚡️ My Stats:
-<div align="center">
-  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ipetersenpai&show_icons=true&theme=vision-friendly-dark" alt="ipetersenpai" /></p>
-</div>
-
 ## 
 
 ## 💼 Contact Me

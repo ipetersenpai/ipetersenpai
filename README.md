@@ -1,4 +1,4 @@
-<h2 align="center">⚡️ Hello! Welcome to my Profile ⚡️</h2>
+<h1 align="center">⚡️ Hello! Welcome to my Profile ⚡️</h1>
 
 I am currently taking BS Information Technology at University of Science and Technology of Southern Philippines. I am passionate about creating visually appealing and user-friendly interfaces that deliver a seamless user experience. With a background in both Front-End Development and UI/UX Design, I possess a unique combination of technical expertise and creative flair, enabling me to craft digital solutions that captivate and delight users.
 

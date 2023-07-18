@@ -7,7 +7,7 @@ I am currently taking BS Information Technology at University of Science and Tec
 [![python](https://img.shields.io/badge/python-e9b500?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 [![tailwindcss](https://img.shields.io/badge/tailwindcss-1ae5c6?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcomponents.com/)
 [![typescript](https://img.shields.io/badge/typescript-1DA1F2?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Java](https://img.shields.io/badge/Java-d22d52?style=for-the-badge&logo=java&logoColor=white)](https://dev.java)
+[![Java](https://img.shields.io/badge/Java-d22d52?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
 [![reactnative](https://img.shields.io/badge/reactnative-01defe?style=for-the-badge&logo=react&logoColor=white)](https://reactnative.dev)
 [![firebase](https://img.shields.io/badge/firebase-fc8303?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/)
 [![material ui](https://img.shields.io/badge/materalUI-0069ff?style=for-the-badge&logo=mui&logoColor=white)](https://mui.com/)
@@ -25,6 +25,8 @@ I am currently taking BS Information Technology at University of Science and Tec
 [![figma](https://img.shields.io/badge/figma-cd3259?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com)
 [![photoshop](https://img.shields.io/badge/photoshop-01defe?style=for-the-badge&logo=photoshop&logoColor=white)](https://www.adobe.com)
 [![postman](https://img.shields.io/badge/postman-fc8303?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com)
+[![bash](https://img.shields.io/badge/bash_Terminal-23b63f?style=for-the-badge&logo=bash&logoColor=white)](https://www.bash.dev)
+[![git](https://img.shields.io/badge/git-ff7f00?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
 ## 
 

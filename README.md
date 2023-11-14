@@ -1,5 +1,3 @@
-<h1 align="center">⚡️ Hello! Welcome to my Profile ⚡️</h1>
-
 ## 🛠 Languages and Frameworks:
 
 [![react](https://img.shields.io/badge/react-01defe?style=for-the-badge&logo=react&logoColor=white)](https://react.dev/)

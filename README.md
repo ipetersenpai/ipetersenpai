@@ -10,9 +10,6 @@
 [![redux](https://img.shields.io/badge/redux-6528F7?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org)
 [![javascript](https://img.shields.io/badge/javascript-e9b500?style=for-the-badge&logo=javascript&logoColor=white)](https://www.javascript.com)
 [![django](https://img.shields.io/badge/django-21de80?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com)
-[![flutter](https://img.shields.io/badge/flutter-4e21de?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
-[![dart](https://img.shields.io/badge/dart-B64994?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
-
 
 ## 🛠 Tools:
 

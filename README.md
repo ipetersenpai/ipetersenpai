@@ -2,11 +2,6 @@
   <img src="./assets/banner.jpg" alt="banner" style="position: absolute; max-height: 100px; max-width: 100%; object-fit: cover; object-position: center;">
 </div>
 
-### 🌱 About Me
-<span style="text-align: justify; font-size: 1px;">
-I am passionate about creating visually appealing and user-friendly interfaces that deliver a seamless user experience. With a background in both Front-End Development and Back-End Development, I possess a unique combination of technical expertise and creative flair, enabling me to craft digital solutions that captivate and delight users. My proficiency in Back-End Development allows me to ensure that not only are the front-facing aspects of an application intuitive and engaging, but also that the underlying infrastructure is robust, scalable, and efficiently managed, resulting in a comprehensive and seamless user experience from end to end.
-</span>
-
 ### 🛠 Languages|Frameworks|Libraries
 
 [![react](https://img.shields.io/badge/react-01defe?style=for-the-badge&logo=react&logoColor=white)](https://react.dev/)

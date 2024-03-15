@@ -23,6 +23,7 @@ I am passionate about creating visually appealing and user-friendly interfaces t
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 [![javascript](https://img.shields.io/badge/javascript-e9b500?style=for-the-badge&logo=javascript&logoColor=white)](https://www.javascript.com)
 [![django](https://img.shields.io/badge/django-21de80?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com)
+![codeigniter](https://img.shields.io/badge/codeigniter-%23E34F26.svg?style=for-the-badge&logo=codeigniter&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
@@ -39,7 +40,6 @@ I am passionate about creating visually appealing and user-friendly interfaces t
 [![postman](https://img.shields.io/badge/postman-fc8303?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com)
 [![bash](https://img.shields.io/badge/❒_bash_Terminal-23b63f?style=for-the-badge&logo=bash&logoColor=white)](https://www.bash.dev)
 [![git](https://img.shields.io/badge/git-ff7f00?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 [![thunderclient](https://img.shields.io/badge/insomnia-ad03b0?style=for-the-badge&logo=insomnia&logoColor=white)]([https://www.thunderclient.com/](https://docs.insomnia.rest))
 

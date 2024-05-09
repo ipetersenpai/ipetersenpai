@@ -24,6 +24,7 @@
 
 ### 🛠 Hosting
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+[![digital_ocean](https://img.shields.io/badge/digitalOcean-0069ff?style=for-the-badge&logo=digitalocean&logoColor=white)]([https://mui.com/](https://www.digitalocean.com/))
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 [![gitpod](https://img.shields.io/badge/gitpod-e9b500?style=for-the-badge&logo=gitpod&logoColor=white)]([https://www.python.org](https://www.gitpod.io/))
 

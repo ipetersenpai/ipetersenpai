@@ -38,6 +38,7 @@
 [![git](https://img.shields.io/badge/git-ff7f00?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 [![thunderclient](https://img.shields.io/badge/insomnia-ad03b0?style=for-the-badge&logo=insomnia&logoColor=white)]([https://www.thunderclient.com/](https://docs.insomnia.rest))
+[![docker](https://img.shields.io/badge/docker-1DA1F2?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 
 ### 🌱 My Stats
 

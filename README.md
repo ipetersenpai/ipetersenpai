@@ -5,7 +5,6 @@
 ### 🛠 Languages
 
 [![python](https://img.shields.io/badge/python-e9b500?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
-[![tailwindcss](https://img.shields.io/badge/tailwindcss-1ae5c6?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcomponents.com/)
 [![typescript](https://img.shields.io/badge/typescript-1DA1F2?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Java](https://img.shields.io/badge/☕_Java-d22d52?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -26,6 +25,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 [![react](https://img.shields.io/badge/react-01defe?style=for-the-badge&logo=react&logoColor=white)](https://react.dev/)
+[![tailwindcss](https://img.shields.io/badge/tailwindcss-1ae5c6?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcomponents.com/)
 
 
 ### 🛠 Hosting

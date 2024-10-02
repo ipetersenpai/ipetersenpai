@@ -2,7 +2,7 @@
   <img src="./assets/banner.jpg" alt="banner" style="position: absolute; max-height: 100px; max-width: 100%; object-fit: cover; object-position: center;">
 </div>
 
-# 💼 Tech Stack
+## 💼 Tech Stack
 
 Welcome to my GitHub! Here you’ll find my diverse skillset in programming languages, frameworks, tools, and more. As a UI/UX Designer, Software Engineer, and Fullstack Developer, I bring a unique blend of design and engineering expertise. Let's explore my skills!
 

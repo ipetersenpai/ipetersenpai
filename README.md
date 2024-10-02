@@ -4,7 +4,7 @@
 
 # 💼 Tech Stack
 
-Welcome to my GitHub! Here you’ll find my diverse skillset in programming languages, frameworks, tools, and more. Let's explore!
+Welcome to my GitHub! Here you’ll find my diverse skillset in programming languages, frameworks, tools, and more. As a UI/UX Designer, Software Engineer, and Fullstack Developer, I bring a unique blend of design and engineering expertise. Let's explore my skills!
 
 ## 🔧 Languages
 <div align="center">
@@ -31,6 +31,9 @@ Welcome to my GitHub! Here you’ll find my diverse skillset in programming lang
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
   <a href="https://react.dev/"><img src="https://img.shields.io/badge/react-01defe?style=for-the-badge&logo=react&logoColor=white" alt="React"></a>
   <a href="https://tailwindcomponents.com/"><img src="https://img.shields.io/badge/tailwindcss-1ae5c6?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"></a>
+  <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" alt="Expo">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter">
+  <a href="https://www.npmjs.com/"><img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"></a>
 </div>
 
 ## 🌐 Hosting Platforms

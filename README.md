@@ -1,7 +1,3 @@
-Here’s an updated and more formal version of your `README.md` for GitHub, with improved structure and a modern, sleek look:
-
----
-
 <div align="center" style="position: relative; height: 100px; width: 100%;">
   <img src="./assets/banner.jpg" alt="banner" style="position: absolute; max-height: 100px; max-width: 100%; object-fit: cover; object-position: center;">
 </div>

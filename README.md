@@ -19,22 +19,10 @@ Welcome to my GitHub! Here you’ll find my diverse skillset in programming lang
 </div>
 
 ## 🛠 Frameworks & Libraries
-<div align="center">
-  <a href="https://www.djangoproject.com"><img src="https://img.shields.io/badge/django-21de80?style=for-the-badge&logo=django&logoColor=white" alt="Django"></a>
-  <img src="https://img.shields.io/badge/codeigniter-%23E34F26.svg?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter">
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js">
-  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
-  <a href="https://reactnative.dev"><img src="https://img.shields.io/badge/react_native-01defe?style=for-the-badge&logo=react&logoColor=white" alt="React Native"></a>
-  <a href="https://mui.com/"><img src="https://img.shields.io/badge/materalUI-0069ff?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI"></a>
-  <a href="https://redux.js.org"><img src="https://img.shields.io/badge/redux-6528F7?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"></a>
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-  <a href="https://react.dev/"><img src="https://img.shields.io/badge/react-01defe?style=for-the-badge&logo=react&logoColor=white" alt="React"></a>
-  <a href="https://tailwindcomponents.com/"><img src="https://img.shields.io/badge/tailwindcss-1ae5c6?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"></a>
-  <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" alt="Expo">
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter">
-  <a href="https://www.npmjs.com/"><img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"></a>
-</div>
+<div align="center"> <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"></a> <a href="https://react.dev/"><img src="https://img.shields.io/badge/react-01defe?style=for-the-badge&logo=react&logoColor=white" alt="React"></a> <a href="https://reactnative.dev"><img src="https://img.shields.io/badge/react_native-01defe?style=for-the-badge&logo=react&logoColor=white" alt="React Native"></a> <a href="https://www.djangoproject.com"><img src="https://img.shields.io/badge/django-21de80?style=for-the-badge&logo=django&logoColor=white" alt="Django"></a> <img src="https://img.shields.io/badge/codeigniter-%23E34F26.svg?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter"> <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js"> <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"> <a href="https://mui.com/"><img src="https://img.shields.io/badge/materalUI-0069ff?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI"></a> <a href="https://redux.js.org"><img src="https://img.shields.io/badge/redux-6528F7?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"></a> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"> <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"> <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/tailwindcss-1ae5c6?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"></a> <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" alt="Expo"> <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter"> <a href="https://www.npmjs.com/"><img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"></a> </div>
+
+## 🔹 Backend Technologies
+<div align="center"> <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"></a> <a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"></a> <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></a> <a href="https://www.sqlite.org/"><img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"></a> </div> 
 
 ## 🌐 Hosting Platforms
 <div align="center">

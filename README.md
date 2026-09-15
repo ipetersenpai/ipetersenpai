@@ -1,5 +1,5 @@
 <div align="center" style="position: relative; height: 100px; width: 100%;">
-  <img src="./assets/banner.jpg" alt="banner" style="position: absolute; max-height: 100px; max-width: 100%; object-fit: cover; object-position: center;">
+  <img src="./assets/banner.png" alt="banner" style="position: absolute; max-height: 100px; max-width: 100%; object-fit: cover; object-position: center;">
 </div>
 
 ## 💼 Tech Stack

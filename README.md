@@ -164,83 +164,6 @@ I work across frontend, backend, databases, APIs, deployment, and system archite
 
 ---
 
-# 🚀 Selected Projects
-
-## JuanSpot — Multi-Business Management Platform
-
-A multi-business SaaS platform for managing rental and service-based businesses. It supports apartment, vehicle, and venue rentals, inventory with POS, multi-branch operations, subscriptions, reporting, and customizable public branch websites.
-
-**Key Areas:**
-- Multi-business and multi-branch architecture
-- Apartment, vehicle, and venue rental management
-- Inventory and POS
-- Subscription management
-- User and role management
-- Public branch websites
-- Reports and analytics
-
-**Tech Stack:**  
-Next.js, Firebase, Firestore, MySQL, Tailwind CSS, Xendit, DigitalOcean
-
----
-
-## MCenter Dumaguete — Clinic Management System
-
-A centralized clinic management platform covering clinical, laboratory, financial, and administrative workflows.
-
-**My Contributions:**
-- System architecture and planning
-- Frontend and backend development
-- REST API development
-- Finance and billing workflows
-- Statement of Account and payment processing
-- Laboratory Information System
-- UI/UX improvements
-- Testing and debugging
-
-**Tech Stack:**  
-Next.js, Laravel, MySQL, Tailwind CSS, REST API
-
----
-
-## Bridgette Smart School v2 — School Management System
-
-A modernized school management platform designed to improve maintainability, performance, customization, and module development through a more structured system architecture.
-
-**My Contributions:**
-- Lead development
-- System architecture
-- Frontend and backend development
-- Database architecture
-- REST API development
-- Legacy workflow improvements
-- Module integration
-- Testing and debugging
-
-**Tech Stack:**  
-Next.js, Node.js, Prisma, MySQL, Tailwind CSS, REST API
-
----
-
-## KYOGOJO — Human Resources Management System
-
-A centralized HR management platform for managing employee records, attendance, leave requests, payroll, DTRs, payslips, and other HR operations.
-
-**My Contributions:**
-- System architecture
-- UI/UX design
-- Database design
-- Frontend development
-- Backend development
-- REST API integration
-- Mobile attendance integration
-- Testing and deployment
-
-**Tech Stack:**  
-Laravel, MySQL, REST API, React Native, NativeWind
-
----
-
 # 📊 GitHub Stats
 
 <div align="center">
@@ -251,13 +174,5 @@ Laravel, MySQL, REST API, React Native, NativeWind
   />
 
 </div>
-
----
-
-<div align="center">
-
-### Let's build something useful. 🚀
-
-I'm open to full-stack software development opportunities, collaborations, and interesting projects.
 
 </div>
